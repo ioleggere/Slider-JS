@@ -1,0 +1,21 @@
+#slider{
+    width: 1000px;
+    height: 300px;
+    border: 1px solid #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bts{    
+    background-color: rgba(0,0,0,0.4);
+    height: 30%;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    margin: 10px;
+    justify-content: space-between;
+}
+body{
+    background-color: black;
+}
